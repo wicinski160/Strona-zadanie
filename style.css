@@ -45,6 +45,17 @@ ul{
     list-style-type: square;
     padding-left: 20px;
 }
+button{
+    background-color: #c99e63;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    margin-top: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #a67c52;
+}
 
 footer{
     margin-top: 20px;
